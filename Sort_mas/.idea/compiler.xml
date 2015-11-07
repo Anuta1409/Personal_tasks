@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="My_homework" />
+        <module name="Sort_mas" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="My_homework" target="1.5" />
+      <module name="Sort_mas" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

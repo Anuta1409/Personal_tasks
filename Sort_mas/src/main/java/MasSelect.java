@@ -1,7 +1,7 @@
 /**
  * Created by Anna on 07.11.2015.
  */
-public class Massive_win {
+public class MasSelect{
     public static void main (String[] args) {
 
         /* Найдите победителя марафона.
